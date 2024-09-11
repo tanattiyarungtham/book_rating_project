@@ -5,7 +5,8 @@
 **Data ScienceTech Institute (DSTI), School of Engineering, Paris & Nice, France**
 
 </div>
-                                                             
+'''
+
 # Book Rating Prediction: Exploratory Data Analysis and Modeling
 ## Project Overview
 
