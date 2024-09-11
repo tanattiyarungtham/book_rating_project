@@ -1,7 +1,8 @@
 <div align="center">
-<h5></h5>Project: Book Rating Prediction Model</div>h5>
+<h5></h5>Project: Book Rating Prediction Model</div><h5>
 
 Diavila Rostaing Engandzi, Tanattiya Rungtham, Yohan Walter Jothipala
+
 Data ScienceTech Institute, School of Engineering, Paris & Nice, France
 
 </div>
