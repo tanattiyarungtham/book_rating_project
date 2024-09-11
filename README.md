@@ -5,9 +5,8 @@
 **Data ScienceTech Institute (DSTI), School of Engineering, Paris & Nice, France**
 
 </div>
-'''
 
-# Book Rating Prediction: Exploratory Data Analysis and Modeling
+## Book Rating Prediction: Exploratory Data Analysis and Modeling
 ## Project Overview
 
 This project focuses on predicting book ratings using a dataset from Goodreads. The goal is to build a machine learning model that can predict book ratings based on features like average rating, number of pages, ratings count, text reviews count, and others. The project consists of two main components:
