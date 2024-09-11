@@ -1,10 +1,10 @@
 <div align="center">
-
 # Project: Book Rating Prediction Model  
 **Diavila Rostaing Engandzi, Tanattiya Rungtham, Yohan Walter Jothipala**  
 **Data ScienceTech Institute (DSTI), School of Engineering, Paris & Nice, France**
 
 </div>
+
 
                                                                    
 # Book Rating Prediction: Exploratory Data Analysis and Modeling
