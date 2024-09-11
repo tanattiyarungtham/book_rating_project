@@ -2,7 +2,7 @@
                                                                      Diavila Rostaing Engandzi, Tanattiya Rungtham, Yohan Walter Jothipala
                                                                         Data ScienceTech Institute, School of Engineering, Paris, Nice, France
 
-                                                                                                 ---
+                                                                        
 
 # Book Rating Prediction: Exploratory Data Analysis and Modeling
 
@@ -117,5 +117,3 @@ This project demonstrates a complete machine learning pipeline, from data prepro
 - Experiment with deep learning models for further improvement.
 - Apply more advanced hyperparameter tuning methods (e.g., Bayesian Optimization).
 - Explore the use of textual data (reviews) to enhance the predictive power of the model.
-
----
