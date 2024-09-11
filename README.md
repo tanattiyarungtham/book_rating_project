@@ -1,6 +1,7 @@
-                                                                                Project: Book Rating Prediction Model
-                                                                    Diavila Rostaing Engandzi, Tanattiya Rungtham, Yohan Walter Jothipala
-                                                                   Data ScienceTech Institute, School of Engineering, Paris & Nice, France                                                          
+# Project: Book Rating Prediction Model  
+**Diavila Rostaing Engandzi, Tanattiya Rungtham, Yohan Walter Jothipala**  
+**Data ScienceTech Institute, School of Engineering, Paris & Nice, France**
+                                                                   
 # Book Rating Prediction: Exploratory Data Analysis and Modeling
 
 ## Project Overview
