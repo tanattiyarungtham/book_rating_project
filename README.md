@@ -47,7 +47,7 @@ Several machine learning algorithms were used, including:
 
 ### Best Model
 
-After comparing various models, the **Bagging Regressor** was identified as the best model with the highest R² score (0.995) and low MSE. The best-performing model was saved using the `joblib` library for future predictions.
+After comparing various models, the **Bagging Regressor** was identified as the best model with the highest R² score (0.9967) and low MSE. The best-performing model was saved using the `joblib` library for future predictions.
 
 ```python
 import joblib
@@ -66,14 +66,14 @@ This report provides a comprehensive analysis of the book rating prediction proj
 
 - **Data Engineering**: Steps include cleaning the dataset, handling missing values, and generating new features (e.g., author average ratings, number of occurrences of each book). 
 
-- **Machine Learning Models**: Several models, including tree-based and ensemble methods, were evaluated. The **Bagging Regressor** achieved the highest accuracy with an R² score of 0.995, making it the best model for this task.
+- **Machine Learning Models**: Several models, including tree-based and ensemble methods, were evaluated. The **Bagging Regressor** achieved the highest accuracy with an R² score of 0.9967, making it the best model for this task.
 
 - **Evaluation**: The models were evaluated using metrics such as MAE, MSE, RMSE, and R² score. The **Bagging Regressor** was selected based on its superior performance.
 
 ### Key Results:
 
 - **Top Features**: Features like `rate_occurrence`, `number_occurrence`, and `author_average_rating` were identified as the most important for predicting book ratings.
-- **Best Model**: The **Bagging Regressor** achieved the best results, with an R² score of 0.995 and low MSE, making it suitable for deployment.
+- **Best Model**: The **Bagging Regressor** achieved the best results, with an R² score of 0.9967 and low MSE, making it suitable for deployment.
 
 For a detailed explanation of the project, refer to the full **Project_Report.pdf**.
 
