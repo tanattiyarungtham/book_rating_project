@@ -111,7 +111,7 @@ To replicate the environment:
 
 ## Conclusion
 
-This project demonstrates a complete machine learning pipeline, from data preprocessing and feature engineering to model evaluation and selection. The **Bagging Regressor** proved to be the best model for predicting book ratings, achieving an R² score of 0.995. The model is saved using `joblib` for future deployment.
+This project demonstrates a complete machine learning pipeline, from data preprocessing and feature engineering to model evaluation and selection. The **Bagging Regressor** proved to be the best model for predicting book ratings, achieving an R² score of 0.9967. The model is saved using `joblib` for future deployment.
 
 ## Future Work
 
